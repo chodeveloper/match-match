@@ -1,2 +1,2 @@
 # ConcentrationGame
-Match Match, Match Up! Simple PHP game
+Match Up! Simple PHP game
