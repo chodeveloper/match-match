@@ -1,2 +1,2 @@
-# Concentration Game 🧠
-Match Up! Simple PHP game
+# Memory Game 🧠
+Match Up! Simple PHP card game
