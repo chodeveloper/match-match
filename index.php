@@ -97,7 +97,7 @@ HERE;
         print '<form method="post" action="page.php" class="mb-3">';
         print '<input type="submit" class="btn btn-warning" value="Play New Game">';
         print '<p class="small text-muted mt-1">❕ All your cards left will be store in a session unless you start a new game.</p></form>';
-        print '<form>';   
+        print '<form class="p-2 mb-4 rounded text-center" style="background-color:#cccccc;min-height:200px;">';   
         
         foreach ($_SESSION['shuffled_pairs'] as $code => $pic) {
             
